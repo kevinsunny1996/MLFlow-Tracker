@@ -1,0 +1,4 @@
+boto3==1.26.22
+matplotlib==3.6.2
+mlflow[extras]==2.0.1
+psycopg2-binary==2.9.5
